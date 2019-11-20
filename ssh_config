@@ -1,0 +1,4 @@
+Host kdog
+HostName login.engin.umich.edu
+User kaymckay
+Compression yes
